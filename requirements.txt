@@ -4,3 +4,4 @@ matplotlib>=3.10.0
 scikit-learn>=1.6.1
 seaborn>=0.13.2
 python>=3.13.1
+joblib>=1.4.2
